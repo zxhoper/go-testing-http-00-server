@@ -12,6 +12,10 @@
 // limitations under the License.
 package main
 
+// Usage :
+// $ curl localhost:8080/double?v=100
+// 200
+
 import (
 	"fmt"
 	"log"
